@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435694321169",
+    "project_id": "meda-app-a732d",
+    "storage_bucket": "meda-app-a732d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435694321169:android:aeae557eb8a68019ad7bb0",
+        "android_client_info": {
+          "package_name": "com.example.medai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435694321169-f5chileev3ns59qug82okqmbl8h179cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medai_app",
+            "certificate_hash": "2c254da406077e453c161e44ae3b370493ca583a"
+          }
+        },
+        {
+          "client_id": "435694321169-k1b72pmnrku5opel0vgqp8k9s82pncvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7vhJ7czHMxYL7wKzGuqI5gpHGWuNW8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435694321169-k1b72pmnrku5opel0vgqp8k9s82pncvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
